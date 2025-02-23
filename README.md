@@ -34,7 +34,5 @@ Open the Python analysis PDF to review the data findings.
 Future Scope
 
 Expanding the survey to a larger audience for better generalization.
-
 Implementing machine learning models to predict satisfaction levels.
-
 Enhancing visual storytelling through interactive dashboards.
